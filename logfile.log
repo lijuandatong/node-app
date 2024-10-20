@@ -1,0 +1,65 @@
+{"level":"info","message":"app starts"}
+{"level":"info","message":"app starts"}
+{"level":"info","message":"app starts"}
+{"level":"info","message":"app starts"}
+{"level":"info","message":"app starts"}
+{"level":"info","message":"app starts"}
+info: app starts {"timestamp":"2024-10-18T19:15:19.707Z"}
+info: app starts {"timestamp":"2024-10-18T19:23:12.569Z"}
+info: app starts {"timestamp":"2024-10-18T19:23:59.446Z"}
+info: app starts {"timestamp":"2024-10-18T19:25:22.266Z"}
+info: app starts {"timestamp":"2024-10-18T19:25:38.284Z"}
+info: app starts {"timestamp":"2024-10-18T19:26:12.608Z"}
+error: could not access to the genres {"timestamp":"2024-10-18T19:26:48.937Z"}
+info: app starts {"timestamp":"2024-10-18T19:33:03.415Z"}
+error: could not access to the genres {"timestamp":"2024-10-18T19:33:10.317Z"}
+error: there is a exception when app starts up. {"timestamp":"2024-10-18T20:57:31.678Z"}
+error: there is a exception when app starts up. {"timestamp":"2024-10-18T21:21:57.388Z"}
+error: something failed! {"timestamp":"2024-10-18T21:21:57.393Z"}
+info: listening on port 4000 {"timestamp":"2024-10-19T23:52:15.565Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T16:21:37.337Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T16:21:45.718Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T16:26:49.987Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T16:27:41.037Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T16:53:45.329Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T16:53:52.959Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T16:55:18.945Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T16:55:43.934Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T16:55:56.910Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:04:11.837Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:15:49.327Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:16:22.739Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:16:43.899Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:18:10.409Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:18:23.433Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:18:53.131Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:19:57.872Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:20:42.919Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:21:02.754Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:21:49.859Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:22:52.132Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:23:52.351Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:24:10.904Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:29:29.738Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:29:43.195Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:30:51.735Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:31:01.282Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:48:28.056Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:51:16.678Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:52:49.811Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:53:49.231Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:54:05.830Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:54:29.335Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T17:54:40.464Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:05:37.835Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:05:46.054Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:20:29.976Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:22:06.775Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:23:40.087Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:25:05.464Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:25:29.811Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:25:36.062Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:36:22.667Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:38:28.742Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:38:52.919Z"}
+info: listening on port 4000 {"timestamp":"2024-10-20T18:39:00.435Z"}

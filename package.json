@@ -4,12 +4,32 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll --verbose"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^8.7.1",
-    "underscore": "^1.13.7"
+    "bcrypt": "^5.1.1",
+    "config": "^3.3.12",
+    "debug": "^4.3.7",
+    "express": "^4.21.1",
+    "express-async-errors": "^3.1.1",
+    "fawn": "^2.1.5",
+    "helmet": "^8.0.0",
+    "joi": "^13.1.0",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.22",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.3",
+    "underscore": "^1.13.7",
+    "winston": "^3.15.0",
+    "winston-mongodb": "^6.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jshint": "^2.13.6",
+    "supertest": "^3.0.0"
   }
 }
